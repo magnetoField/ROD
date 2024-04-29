@@ -15,4 +15,5 @@ Krajowy Zarząd PZD informuje, że wytyczne do przeprowadzenia walnych zebrań o
 Krajowy Zarząd PZD informuje również, że wzorem lat ubiegłych, zadecydował o wydrukowaniu zawiadomień na walne zebrania (konferencje delegatów) w formie kartek pocztowych, które po wydrukowaniu zostaną przekazane do biur okręgów, skąd zarządy ROD będą mogły odbierać odpowiednią do ilości członków PZD w swoim ROD liczbę zawiadomień. Druki zawiadomień są bezpłatne dla ROD. Koszty wydruku i dystrybucji pokrywa Krajowy Zarząd PZD.
  
 **Krajowy Zarząd** 
+
 **Polskiego Związku Działkowców**
