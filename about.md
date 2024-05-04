@@ -7,15 +7,11 @@ Dane kontaktowe do Prezesa i Sekretarza ROD im. A. Dickmana
 
 **Prezes ROD:**
 
-  [Numer telefonu]
-  
-  [Adres email]
+![Prezes](assets/presio.png)
 
 **Sekretarz ROD:**
 
-  [Numer telefonu]
-
-  [Adres email]
+![Sekretarz](assets/sekres.png)
 
 Zapraszamy do śledzenia ogłoszeń na twiterze oraz facebooku.
 Dyżury Prezesa i Sekretarza odbywają się w każdą ostatnią sobotę miesiąca w godzinach 11:00-12:00 w biurze ROD w Altanie Działkowca.
