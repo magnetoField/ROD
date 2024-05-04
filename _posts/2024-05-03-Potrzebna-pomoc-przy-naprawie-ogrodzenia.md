@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pomoc przy naprawie płotu"
+title: "Pomoc przy naprawie ogrodzenia"
 categories: post
 author:
 - Zarząd
