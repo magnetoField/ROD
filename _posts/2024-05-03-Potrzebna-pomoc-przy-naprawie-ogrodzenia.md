@@ -15,7 +15,7 @@ Szukamy osób mogących pomóc przy:
 - Pracach związanych z podwyższeniem płotu
 Naprawa płotu jest niezbędna, aby chronić nasze ogrody przed dziką zwierzyną. Wspólnymi siłami możemy szybko i sprawnie wykonać to zadanie.
 
-Wszystkich chętnych do pomocy prosimy o kontakt.
+Wszystkich chętnych do pomocy prosimy o [kontakt](https://magnetofield.github.io/ROD/about/).
 
 Zaangażowanie każdego z nas jest ważne!
 
