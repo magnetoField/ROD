@@ -16,7 +16,7 @@ W celu pobrania nowego klucza do furtki prosimy o zgłaszanie się w każdą ost
 - Wymiana zamków nastąpi w terminie późniejszym, o którym poinformujemy w osobnym ogłoszeniu.
 
 **Dodatkowe informacje:**
-- W przypadku pytań lub wątpliwości prosimy o kontakt z Zarządem ROD.
+- W przypadku pytań lub wątpliwości prosimy o [kontakt](https://magnetofield.github.io/ROD/about/) z zarządem ROD.
 - Prosimy o zabranie ze sobą dowodu osobistego w celu potwierdzenia tożsamości.
 
 Mamy nadzieję, że wymiana zamków przyczyni się do poprawy bezpieczeństwa na terenie ROD.
