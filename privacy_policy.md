@@ -12,9 +12,10 @@ Szanujemy prywatność użytkowników i zobowiązujemy się do ochrony ich danyc
 Strona gromadzi dane osobowe użytkowników w następujących sytuacjach:
 1. Ciasteczka zgody na ciasteczka: 
     * Kiedy użytkownik odwiedza Stronę po raz pierwszy, pojawia się baner informacyjny o ciasteczkach. Użytkownik może wyrazić zgodę na wszystkie ciasteczka lub wybrać tylko te, na które chce wyrazić zgodę.
-    
+
 2. Ciasteczka Google Analytics: 
     * Strona korzysta z usługi Google Analytics, która gromadzi anonimowe dane o ruchu na Stronie. Dane te są wykorzystywane do celów statystycznych i analitycznych, aby poprawić jakość usług świadczonych przez Stronę.
+
 # Wykorzystywanie danych osobowych
 Strona wykorzystuje dane osobowe użytkowników w następujących celach:
 
@@ -22,6 +23,7 @@ Strona wykorzystuje dane osobowe użytkowników w następujących celach:
     * Dane te są wykorzystywane do zapamiętania wyboru użytkownika dotyczącego ciasteczek, aby baner informacyjny nie pojawiał się ponownie podczas kolejnych wizyt na Stronie.
 2. Ciasteczka Google Analytics: 
     * Dane te są wykorzystywane do generowania statystyk i analiz ruchu na Stronie. Dane te są anonimowe i nie pozwalają na identyfikację konkretnych użytkowników.
+
 # Udostępnianie danych osobowych
 Strona nie udostępnia danych osobowych użytkowników stronom trzecim bez ich wyraźnej zgody.
 
@@ -47,5 +49,5 @@ Strona może dokonywać zmian w niniejszej Polityce Prywatności. O każdej zmia
 # Kontakt
 W przypadku pytań dotyczących niniejszej Polityki Prywatności użytkownicy mogą skontaktować się z Administratorem danych osobowych. Administratorem danych osobowych jest zarząd ROD im. Arenda Dickmana w Gdańsku Oliwie. Dane kotatkowe dostępne w zakładce [kontakt](https://dickmana.pl/about/). 
 
-Dodatkowe informacje
+# Dodatkowe informacje
 Więcej informacji na temat ochrony danych osobowych można znaleźć na stronie internetowej Urzędu Ochrony Danych Osobowych: https://uodo.gov.pl/.
