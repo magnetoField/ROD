@@ -1,3 +1,9 @@
+---
+layout: page
+title: Polityka Prywatności
+permalink: /privacy/
+---
+
 Polityka Prywatności dickmana.pl
 
 Wstęp
