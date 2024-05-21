@@ -7,11 +7,11 @@ Dane kontaktowe do Prezesa i Sekretarza ROD im. A. Dickmana
 
 **Prezes ROD:**
 
-![Wystapił błąd](https://magnetofield.github.io/ROD/assets/presio.png)
+![Prezes](https://magnetofield.github.io/ROD/assets/presio.png)
 
 **Sekretarz ROD:**
 
-![Wystąpił błąd](https://magnetofield.github.io/ROD/assets/sekres.png)
+![Sekretarz](https://magnetofield.github.io/ROD/assets/sekres.png)
 
 Zapraszamy do śledzenia ogłoszeń na twiterze oraz facebooku.
 Dyżury Prezesa i Sekretarza odbywają się w każdą ostatnią sobotę miesiąca w godzinach 11:00-12:00 w biurze ROD w Altanie Działkowca.
