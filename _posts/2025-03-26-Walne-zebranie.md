@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " ZAWIADOMIENIE  O WALNYM ZEBRANIU SPRAWOZDAWCZYM ROD"
+title: "ZAWIADOMIENIE  O WALNYM ZEBRANIU SPRAWOZDAWCZYM ROD"
 categories: Ogłoszenia
 author:
 - Zarząd
