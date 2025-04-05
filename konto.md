@@ -20,8 +20,8 @@ permalink: /konto/
 
 <script>
         // Sample CSV data
-        const csvData = `house_number,flat_number,pin_code,amount
-        1,1,972.7,3665
+        const csvData = `house_number,flat_number,amount,pin_code
+  1,1,972.7,3665
 		1,2,973.55,1899
 		1,3,1005.45,2204
 		1,4,944.55,9884
