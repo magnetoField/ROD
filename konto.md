@@ -9,7 +9,7 @@ permalink: /konto/
 		<select id="sectorNumber" name="sectorNumber">
 		<option value="1">I</option>
 		<option value="2">II</option>
-		</select>
+		</select><br><br>
         <label for="alotmentNumber">Numer działki:</label>
         <input type="text" id="alotmentNumber" name="alotmentNumber"><br><br>
         <label for="pinCode">PIN:</label>
