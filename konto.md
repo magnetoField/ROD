@@ -11,9 +11,9 @@ permalink: /konto/
 		<option value="2">II</option>
 		</select><br><br>
         <label for="alotmentNumber">Numer działki:</label>
-        <input type="text" id="alotmentNumber" name="alotmentNumber"><br><br>
+        <input type="text" id="alotmentNumber" name="alotmentNumber" maxlength="4" size="4"><br><br>
         <label for="pinCode">PIN:</label>
-        <input type="text" id="pinCode" name="pinCode"><br><br>
+        <input type="text" id="pinCode" name="pinCode" maxlength="4" size="4"><br><br>
         <input type="button" value="Pokaż" onclick="checkPayment()">
     </form>
 <p id="result"></p>
