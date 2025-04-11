@@ -20,7 +20,7 @@ permalink: /konto/
 
 <script>
         // Sample CSV data
-        const csvData = `flat_number,house_number,metraz,kons,func,part,raz1,smiec,toi,sklad,ener,inv,raz2,debt,amount,pin_code
+        const csvData = `flat_number,house_number,metraz,kons,func,part,raz1,smiec,toi,sklad,ener,inv,razx,raz2,debt,amount,pin_code
         1,1,406,0.26,1.14,0.15,629.30,212.00,21.00,10.00,0.00,0.00,243.00,872.30,0.00,872.30,3665
         2,1,379,0.26,1.14,0.15,587.45,212.00,21.00,10.00,40.00,0.00,283.00,870.45,-72.22,942.67,1899
         3,1,401,0.26,1.14,0.15,621.55,212.00,21.00,10.00,40.00,0.00,283.00,904.55,-36.49,941.04,2204
