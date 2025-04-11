@@ -20,7 +20,7 @@ permalink: /konto/
 
 <script>
         // Sample CSV data
-        const csvData = `flat_number,house_number,metraz,kons,func,part,raz1,smiec,toi,sklad,ener,inv,razx,raz2,debt,amount,pin_code
+        const csvData = `flat_number,house_number,metraz,kons,func,part,raz1,smiec,toi,sklad,ener,inv,raz2,razx,debt,amount,pin_code
         1,1,406,0.26,1.14,0.15,629.30,212.00,21.00,10.00,0.00,0.00,243.00,872.30,0.00,872.30,3665
         2,1,379,0.26,1.14,0.15,587.45,212.00,21.00,10.00,40.00,0.00,283.00,870.45,-72.22,942.67,1899
         3,1,401,0.26,1.14,0.15,621.55,212.00,21.00,10.00,40.00,0.00,283.00,904.55,-36.49,941.04,2204
@@ -230,7 +230,7 @@ permalink: /konto/
             const result = data.find(row => row.house_number === houseNumber && row.flat_number === flatNumber && row.pin_code === pinCode);
 
             if (result) {
-                document.getElementById('result').innerText = `Nr działki ${flatNumber} Sektor ${houseNumber}  \n\n \n\n Ilość M2: ${result.metraz} \n\n Konserwacja infrastruktury ogrodowej, koszty hydroforni i inne: ${result.kons} zł \n\n Opłata na pokrycie kosztów funkcjonowania ROD w tym zarządu (Płace, art.biurowe, opłaty pocztowe i inne): ${result.func} zł \n\n Partycypacja: ${result.part} zł \n\n Razem: ${result.raz1} \n\n Opłata za wywóz śmieci: ${result.smiec} zł \n\n TOITOI: ${result.smiec} zł \n\n Składka członkowska: ${result.sklad} zł \n\n Opłata energetyczna: ${result.ener} zł \n\n Opłata inwestycyjna: ${result.inv} zł \n\n Zaległość/Nadpłata/Odsetki: ${result.debt} \n\n Razem: ${result.raz2} zł.  \n\n Do zapłaty: ${result.amount} zł. \n\n \n\n Na przelewie obowiązkowo podawać numer działki i sektor. \n\n Bank Millennium 17 1160 2202 0000 0001 3045 1918`;
+                document.getElementById('result').innerText = `Nr działki ${flatNumber} Sektor ${houseNumber}  \n\n <b>Ilość M2:</b> ${result.metraz} \n\n Konserwacja infrastruktury ogrodowej, koszty hydroforni i inne: ${result.kons} zł \n\n Opłata na pokrycie kosztów funkcjonowania ROD w tym zarządu (Płace, art.biurowe, opłaty pocztowe i inne): ${result.func} zł \n\n Partycypacja: ${result.part} zł \n\n Razem: ${result.raz1} \n\n Opłata za wywóz śmieci: ${result.smiec} zł \n\n TOITOI: ${result.smiec} zł \n\n Składka członkowska: ${result.sklad} zł \n\n Opłata energetyczna: ${result.ener} zł \n\n Opłata inwestycyjna: ${result.inv} zł \n\n Zaległość/Nadpłata/Odsetki: ${result.debt} \n\n Razem: ${result.raz2} zł.  \n\n Do zapłaty: ${result.amount} zł. \n\n \n\n Na przelewie obowiązkowo podawać numer działki i sektor. \n\n Bank Millennium 17 1160 2202 0000 0001 3045 1918`;
             } else {
                 document.getElementById('result').innerText = 'Błędny PIN';
             }
