@@ -1,4 +1,4 @@
-title: ROD im. A. Dickmana
+title: ROD im. A. Dickmana w Gdańsku
 author:
   name: ROD im. Arenda Dickmana w Oliwie
   email: roddickmanagdansk@pzd.pl
@@ -28,7 +28,11 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
+  - Aktualnosci.md
   - about.md
+  - PrawoPZD.md
+  - przydatneInformacje.md
+  - doPobrania.md
   - forSale.md
   - files.md
   - konto.md
