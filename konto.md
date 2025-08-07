@@ -16,8 +16,9 @@ permalink: /konto/
         <input type="text" id="pinCode" name="pinCode" maxlength="4" size="4"><br><br>
         <input type="button" value="Pokaż" onclick="checkPayment()">
     </form>
-<p id="result"></p>
-
+<div class=result>
+<p id="result">Wybierz sektor i wpisz numer działki i pin aby wyświetlić naliczenia.</p>
+</div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"></script>
 <script>
 		const myEncrData=`house_number,flat_number,pin_hash_for_search,encrypted_data
@@ -262,7 +263,7 @@ permalink: /konto/
                 const result = decryptData(myfoundRow.encrypted_data, userPinKey);
 
                 if (result) {
-                    document.getElementById('result').innerText = `\n\n --------------------- \n\n Nr działki ${flatNumber} Sektor ${houseNumber} \n\n Powierzchnia w m2: ${result.metraz} \n\n --------------------- \n\n Rozliczenie za energię elektryczną \n\n --------------------- \n\n Stan licznika w 2025r.: ${result.dwpia} kWh\n\n Stan licznika w 2024r.: ${result.dwczw} kWh\n\n Zużycie energi elektrycznej: ${result.usage} kWh \n\n Stawka za kWh: ${result.price} zł\n\n Naliczenie:	${result.elamount} zł\n\n Zaległość lub nadpłata za 2024r.: ${result.eledept} zł\n\n Opłata energetyczna: ${result.fee} zł \n\n Ryczałt: ${result.penalty} zł\n\n Razem do zapłaty za prąd: ${result.eletotal} zł \n\n	--------------------- \n\n Roczne opłaty za działkę \n\n --------------------- \n\n	Konserwacja infrastruktury ogrodowej, koszty hydroforni i inne: ${result.kons} zł \n\n Opłata na pokrycie kosztów funkcjonowania ROD w tym zarządu (Płace, art.biurowe, opłaty pocztowe i inne): ${result.func} zł \n\n Partycypacja: ${result.part} zł \n\n Razem: ${result.raz1} \n\n Opłata za wywóz śmieci: ${result.smiec} zł \n\n TOITOI: ${result.toi} zł \n\n Składka członkowska: ${result.sklad} zł \n\n Opłata energetyczna: ${result.ener} zł \n\n Opłata inwestycyjna: ${result.inv} zł \n\n Zaległość/Nadpłata/Odsetki: ${result.debt} \n\n Razem: ${result.raz2} zł. \n\n Do zapłaty: ${result.amount} zł. \n\n \n\n Na przelewie obowiązkowo podawać numer działki i sektor. \n\n Bank Millennium 17 1160 2202 0000 0001 3045 1918`;
+                    document.getElementById('result').innerText = `--------------------- \n\n Nr działki ${flatNumber} Sektor ${houseNumber} \n\n Powierzchnia w m2: ${result.metraz} \n\n --------------------- \n\n Rozliczenie za energię elektryczną \n\n --------------------- \n\n Stan licznika w 2025r.: ${result.dwpia} kWh\n\n Stan licznika w 2024r.: ${result.dwczw} kWh\n\n Zużycie energi elektrycznej: ${result.usage} kWh \n\n Stawka za kWh: ${result.price} zł\n\n Naliczenie:	${result.elamount} zł\n\n Zaległość lub nadpłata za 2024r.: ${result.eledept} zł\n\n Opłata energetyczna: ${result.fee} zł \n\n Ryczałt: ${result.penalty} zł\n\n Razem do zapłaty za prąd: ${result.eletotal} zł \n\n	--------------------- \n\n Roczne opłaty za działkę \n\n --------------------- \n\n	Konserwacja infrastruktury ogrodowej, koszty hydroforni i inne: ${result.kons} zł \n\n Opłata na pokrycie kosztów funkcjonowania ROD w tym zarządu (Płace, art.biurowe, opłaty pocztowe i inne): ${result.func} zł \n\n Partycypacja: ${result.part} zł \n\n Razem: ${result.raz1} \n\n Opłata za wywóz śmieci: ${result.smiec} zł \n\n TOITOI: ${result.toi} zł \n\n Składka członkowska: ${result.sklad} zł \n\n Opłata energetyczna: ${result.ener} zł \n\n Opłata inwestycyjna: ${result.inv} zł \n\n Zaległość/Nadpłata/Odsetki: ${result.debt} \n\n Razem: ${result.raz2} zł. \n\n Do zapłaty: ${result.amount} zł. \n\n \n\n Na przelewie obowiązkowo podawać numer działki i sektor. \n\n Bank Millennium 17 1160 2202 0000 0001 3045 1918`;
                 } else {
                     document.getElementById('result').innerText = 'Błędny PIN lub błąd deszyfrowania.';
                 }
