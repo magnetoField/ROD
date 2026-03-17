@@ -6,9 +6,9 @@ author:
 - AUTO
 meta: "Gdańsk"
 ---
-# Szanowni Działkowcy,
+Szanowni Działkowcy,
 
-### Informujemy, że nowym gospodarzem naszych ogrodów został Pan Michał Błażyński.
+Informujemy, że nowym gospodarzem naszych ogrodów został Pan Michał Błażyński.
 
 Pan Michał posiada wieloletnie doświadczenie w pracy z ogrodami działkowymi oraz wykazuje się ogromnym zaangażowaniem i pasją do ogrodnictwa. Jesteśmy przekonani, że jego wiedza i umiejętności przyczynią się do dalszego rozwoju i piękna naszych ogrodów.
 
