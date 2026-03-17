@@ -89,10 +89,12 @@ Nie wrzucamy:
 
 Prosimy o:
 
-1. Niewystawianie odpadów poza kontenery 
-⋅⋅⋅⋅1. Zgniatanie opakowań w celu zmniejszenia objętości 
-⋅⋅⋅⋅3. Dbanie o porządek wokół miejsca gromadzenia odpadów 
+  * Niewystawianie odpadów poza kontenery
+   * Zgniatanie opakowań w celu zmniejszenia objętości
+   * Dbanie o porządek wokół miejsca gromadzenia odpadów 
 
 Dziękujemy za współpracę i wspólne dbanie o nasze ogrody.
+
+![smietniki](https://previews.123rf.com/images/jonasbsl/jonasbsl0804/jonasbsl080400004/2831837-color-coded-trash-bins-for-waste-segregation.jpg)
 
 Zarząd ROD
