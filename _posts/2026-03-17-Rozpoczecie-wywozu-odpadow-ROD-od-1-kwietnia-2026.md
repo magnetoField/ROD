@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rozpoczęcie wywozu odpadów na terenie ROD – od 1 kwietnia 2026 r."
+title: "Rozpoczęcie wywozu odpadów na terenie ROD – od 1 kwietnia 2026r."
 author:
 - Zarząd
 ---
