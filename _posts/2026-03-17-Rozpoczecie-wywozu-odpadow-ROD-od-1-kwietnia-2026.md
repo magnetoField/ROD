@@ -54,7 +54,6 @@ Do pojemnika wrzucamy:
 Nie wrzucamy:
 
 - sprzętu AGD
-
 - baterii
 - opakowań po olejach silnikowych
 - styropianu budowlanego
