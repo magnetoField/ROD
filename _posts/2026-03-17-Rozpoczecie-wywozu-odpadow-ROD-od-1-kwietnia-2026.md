@@ -6,87 +6,87 @@ author:
 ---
 Szanowni Działkowcy,
 
-informujemy, że od dnia 1 kwietnia 2026 roku rozpoczyna się regularny wywóz odpadów z terenu Rodzinnych Ogrodów Działkowych.
+informujemy, że **od dnia 1 kwietnia 2026 roku** rozpoczyna się regularny wywóz odpadów z terenu Rodzinnych Ogrodów Działkowych im. A. Dickmana w Gdańsku.
 
 Prosimy wszystkich użytkowników działek o przestrzeganie zasad prawidłowej segregacji odpadów, co pozwoli utrzymać porządek oraz ograniczyć koszty wywozu.
 
 Zasady segregacji odpadów:
 
-1. Kontener na odpady zmieszane:
+**Kontener na odpady zmieszane:**
 
-Do pojemnika wrzucamy:
+***Do pojemnika wrzucamy:***
 
 - odpady, których nie można posegregować
 - zużyte artykuły higieniczne
 - zabrudzone opakowania
 
-Nie wrzucamy:
+***Nie wrzucamy:***
 
 - odpadów zielonych
 - gruzu, ziemi, kamieni
 - sprzętu elektrycznego
 - chemikaliów
 
-2. Kontener na odpady zielone:
+**Kontener na odpady zielone:**
 
-Do pojemnika wrzucamy:
+***Do pojemnika wrzucamy:***
 
 - skoszoną trawę
 - liście
 - drobne gałęzie
 - chwasty
 
-Nie wrzucamy:
+***Nie wrzucamy:***
 
 - worków foliowych
 - resztek jedzenia
 - ziemi i kamieni
 - drewna impregnowanego
 
-3. Kontener na plastik i metal:
+**Kontener na plastik i metal:**
 
-Do pojemnika wrzucamy:
+***Do pojemnika wrzucamy:***
 
 - plastikowe butelki i opakowania
 - puszki aluminiowe i stalowe
 - opakowania po kosmetykach i środkach czystości
 
-Nie wrzucamy:
+***Nie wrzucamy:***
 
 - sprzętu AGD
 - baterii
 - opakowań po olejach silnikowych
 - styropianu budowlanego
 
-4. Kontener na papier:
+**Kontener na papier:**
 
-Do pojemnika wrzucamy:
+***Do pojemnika wrzucamy:***
 
 - gazety, książki, zeszyty
 - kartony i tekturę
 - papierowe opakowania
 
-Nie wrzucamy:
+***Nie wrzucamy:***
 
 - papieru zabrudzonego tłuszczem
 - papieru powlekanego folią
 - pieluch i artykułów higienicznych
 
-5. Kontener na szkło:
+**Kontener na szkło:**
 
-Do pojemnika wrzucamy:
+***Do pojemnika wrzucamy:***
 
 - butelki szklane
 - słoiki
 
-Nie wrzucamy:
+***Nie wrzucamy:***
 
 - ceramiki i porcelany
 - szyb okiennych
 - luster
 - żarówek i świetlówek
 
-Prosimy o:
+**Prosimy o:**
 
   * Niewystawianie odpadów poza kontenery
    * Zgniatanie opakowań w celu zmniejszenia objętości
