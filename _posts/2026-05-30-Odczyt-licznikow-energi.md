@@ -9,7 +9,7 @@ meta: "Gdańsk"
 Przypominamy wszystkim działkowcom o konieczności podania stanu licznika energii elektrycznej stan **z dnia 30.06.2026r**.
 
 ### Pamiętaj!
-* Jest to niezwykle ważne, ponieważ faktura za energię elektryczną będzie rozliczana na podstawie stanu licznika głównego z dnia 30.06.2024r.
+* Jest to niezwykle ważne, ponieważ faktura za energię elektryczną będzie rozliczana na podstawie stanu licznika głównego z dnia 30.06.2026r.
 * W przypadku braku odczytu lub podania go po wyznaczonym terminie, naliczona zostanie opłata ryczałtowa (zgodnie z uchwałą z zebrania walnego z dnia 06.04.2024r.).
 * Odczyt można podać osobiście w biurze zarządu lub przesłać drogą mailową.
 
